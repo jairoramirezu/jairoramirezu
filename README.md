@@ -1,4 +1,4 @@
-<img width="893" alt="jairo's header" src="https://github.com/jairoramirezu/jairoramirezu/assets/68242138/e33a778c-c574-493f-9595-7987986a1184">
+<img width="893" alt="jairo's header" src="https://github.com/jairoramirezu/jairoramirezu/assets/68242138/49eb890b-a6b3-4292-b89a-b9d19b35d0d4">
 
 ### Hi there 👋 I´m Jairo Ramirez – Frontend Developer
 ------------
