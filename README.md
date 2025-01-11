@@ -2,11 +2,6 @@
 
 ### Hi there 👋 I´m Jairo Ramirez – Frontend Developer
 ------------
-- 🔭 I’m currently working at [Arbelos Interactive](https://www.linkedin.com/company/arbelos-interactive/ "Arbelos Interactive")
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/ "Flutter")
-- 📫 You can reach me on [Instagram](https://www.instagram.com/jairoramirezu/ "Instagram")
-- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/jairoramirezu/ "LinkedIn")
-- 🏋️‍♂️🎾 My hobbies are lifting & tennis
 
 ##### Language and Tools:
 [![HTML](https://img.icons8.com/color/48/html-5--v1.png "HTML")](https://img.icons8.com/color/48/html-5--v1.png "HTML")
